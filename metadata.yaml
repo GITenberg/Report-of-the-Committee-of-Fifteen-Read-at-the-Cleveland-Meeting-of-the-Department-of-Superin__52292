@@ -1,0 +1,41 @@
+_repo: Report-of-the-Committee-of-Fifteen-Read-at-the-Cleveland-Meeting-of-the-Department-of-Superin__52292
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Harris, William Torrey
+    aliases:
+    - Harris, William T. (William Torrey)
+    - Harris, W. T. (William Torrey)
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '46766'
+    url: http://www.gutenberg.org/2009/agents/46766
+  - agent_name: Draper, A. S. (Andrew Sloan)
+    alias: Draper, Andrew Sloan
+    birthdate: 1848
+    deathdate: 1913
+    gutenberg_agent_id: '46767'
+    url: http://www.gutenberg.org/2009/agents/46767
+  - agent_name: Tarbell, H. S. (Horace Sumner)
+    alias: Tarbell, Horace Sumner
+    birthdate: 1838
+    deathdate: 1904
+    gutenberg_agent_id: '46768'
+    url: http://www.gutenberg.org/2009/agents/46768
+description: ''
+gutenberg_issued: '2016-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52292'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Education, Elementary -- United States'
+- !lcsh 'Teachers -- Training of -- United States'
+- GITenberg
+title: "Report of the Committee of Fifteen\r\nRead at the Cleveland Meeting of the\
+  \ Department of Superintendence, February 19-21, 1884, with the Debate"
+url: http://www.gutenberg.org/ebooks/52292
